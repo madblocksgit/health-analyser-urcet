@@ -2,7 +2,7 @@
 This is the official repository of a project from URCET on Health Analyser Tool submitted to our project development activity of batch 2021.
 
 # Softwares
-1. Anaconda Navigator
+1. Anaconda Navigator (www.anaconda.com)
 
 # Packages 
 <code>pip install -r requirements.txt</code>
